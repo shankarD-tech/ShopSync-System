@@ -1,4 +1,4 @@
-# 🛒 Stock & Billing Management System
+# 🛒 Shop Sync System
 
 ## 📌 Description
 
